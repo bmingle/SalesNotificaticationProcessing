@@ -1,5 +1,4 @@
 # SalesNotificaticationProcessing
-Sales message processing application
 A small message processing application that satisfies the below requirements for processing sales notification messages.
 Processing requirements
  All sales must be recorded
